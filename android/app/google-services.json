@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "600473338167",
+    "project_id": "efx-shop",
+    "storage_bucket": "efx-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600473338167:android:99f23f53c3cce31b325ab2",
+        "android_client_info": {
+          "package_name": "com.dlhq.efotballactseller_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600473338167-ik9qeb0l38c46o06r1q3ng0qljhh2913.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRoERScULSqrpYdVPz9VftZ_VnLR3yWJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600473338167-ik9qeb0l38c46o06r1q3ng0qljhh2913.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
